@@ -6,3 +6,5 @@
 支持获取PostRender/StaticFindObject/GNativeAndroidApp/GName/GUObject/GEngine/GWorld/ProcessEvent
 
 动态获取UObject/UStruct/...等结构
+
+支持通过解析函数的反射地址的汇编获取其Native的地址和其虚表(部分复杂的除外)
